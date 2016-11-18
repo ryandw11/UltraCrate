@@ -1,0 +1,10 @@
+#The config file for Ultra Crates!
+#Developed by: Ryandw11
+
+No_Permission_text: '&4You do not have permission for that command'
+
+#You edit the key names of each crate in the crates.yml file.
+#===================================================================================================
+#Crates items                                                                                       
+#===================================================================================================
+Crates_Items:

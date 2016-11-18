@@ -1,0 +1,9 @@
+name: UltraCrates
+version: 1.0
+main: me.ryandw11.ultracrates.core.Main
+author: ryandw11
+description: This is a Crate plugin!
+commands:
+    crates:
+     description: Main Command for UltraCrates!
+     aliases: [crate, ultracrate, ucrate]
